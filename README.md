@@ -2,8 +2,8 @@
 
 I'm Matt!
 
-### About ME
- - I'm an avid traveler who's always up for an adventure. My favorite country is Vietnam - there's something about having a cafe sua da, riding around on a scooter, and sitting at down on tiny stools with your knees above the table with a giant ice cube in your beer on a hot day that is incomparable! 
+### I'm not your average Millenial
+ - I'm an avid traveler (okay not a great start) who's always up for an adventure (not the kind of ones that are just for the 'gram).
  - I like to help people learn and grow whenever possible. If I can ever be of help, just ask! 
  - I'm passionate about product and technology. At the end of the day I love being a Product Manager. I believe the cornerstone to delivering great products is by having a strong sense of empathy - being able to put ourselves in each others shoes will help us to understand one another and deliver amazing products that help make our users lives better!
  
