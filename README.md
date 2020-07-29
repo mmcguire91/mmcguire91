@@ -2,7 +2,7 @@
 
 I'm Matt!
 
-### I'm not your average Millenial
+### I'm not your average Millennial
  - I'm an avid traveler (okay not a great start) who's always up for an adventure (not the kind of ones that are just for the 'gram).
  - I like to help people learn and grow whenever possible. If I can ever be of help, just ask! 
  - I'm passionate about product and technology. At the end of the day I love being a Product Manager. I believe the cornerstone to delivering great products is by having a strong sense of empathy - being able to put ourselves in each others shoes will help us to understand one another and deliver amazing products that help make our users lives better!
