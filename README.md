@@ -81,11 +81,11 @@
  ### DEV Experience
  
  <p align="center">
-  <a href="https://github.com/mmcguire91"> 
+  <a href="https://flutter.dev/"> 
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/frameworks/flutter.png?raw=true" alt="flutter badge" style="vertical-align:top margin:6px 4px">
 </a>
 
-<a href="https://github.com/mmcguire91"> 
+<a href="https://dart.dev/"> 
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/languages/dart_colour.png?raw=true" alt="dart badge" style="vertical-align:top margin:6px 4px">
 </a>
 
