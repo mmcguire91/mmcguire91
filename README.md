@@ -78,7 +78,7 @@
 
  
  
- ### DEV experience:
+ ### DEV Experience
  
  <p align="center">
   <a href="https://github.com/mmcguire91"> 
@@ -96,7 +96,7 @@
  
 
 
-### SOCIAL:
+### SOCIAL
 
 <p align="center">
 
