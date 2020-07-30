@@ -2,7 +2,6 @@
  - I'm an avid traveler ✈ (okay not a great start) who's always up for an adventure  🏍🏯 (not the kind of ones that are just for the 'gram).
  - I like to help people learn and grow whenever possible. If I can ever be of help, just ask! 🙋
  - I'm passionate about product and technology. 💻
- - There's not much that can beat watching the Buckeyes play on a Saturday afternoon in the Fall while drinking a pumpkin beer ... (okay I admit I'm a basic bro) 😍🍂🏈🍺
  
  ### Product Experience
  
