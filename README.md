@@ -66,7 +66,7 @@
     <img src="https://i.pinimg.com/originals/7e/f8/1a/7ef81ac41aee4eebecc92b99e9f45160.png" alt="Fieldlens iOS logo" style="vertical-align:top margin:6px 4px" height="50px" width="50px">
    </a>
    
-   <a href="ttps://fieldlens.com/"> 
+   <a href="https://fieldlens.com/"> 
       <img src="https://cdn.onlinewebfonts.com/svg/img_564264.png" alt="Fieldlens desktop logo" style="vertical-align:top margin:6px 4px" height="50px" width="50px">
     </a>
    
