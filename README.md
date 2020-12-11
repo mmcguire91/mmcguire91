@@ -15,12 +15,12 @@
   <td>
    <p align="center">
    <td style='text-align:center;vertical-align:middle'> 
-     <a href="https://www.clearme.com/"> 
+     <a href="https://www.clearme.com/" target="_blank"> 
        <img src="https://lh3.googleusercontent.com/dEFDQLeroxeuWCFgP63XDVe4rXexryxvRr-IFC-TQI0jKDS0VZ1-UpZR5w-01HY20SM=s180-rw" alt="CLEAR logo" style="vertical-align:top margin:6px 4px" height="100px" width="100px">
    </a>
    
    <br/>
-      <a href="https://play.google.com/store/apps/details?id=com.clearme.clearapp"> 
+      <a href="https://play.google.com/store/apps/details?id=com.clearme.clearapp" target="_blank"> 
         <img src="https://source.android.com/setup/images/Android_symbol_green_RGB.png" alt="Android logo" style="vertical-align:top margin:6px 4px" height="50px" width="75px">
       </a>
     </p>
@@ -30,16 +30,16 @@
 
   <td>
   <p align="center">
-  <a href="https://www.shopjustice.com/"> 
+  <a href="https://www.shopjustice.com/" target="_blank"> 
         <img src="https://lh3.googleusercontent.com/o7rr0Vl5oD3YiJoHhmnUbYPT6BxmUwcHVghUKY9D-L0P5j30EJT5UrUK26lsHY7Gl_E=s180-rw" alt="Justice logo" style="vertical-align:top margin:6px 4px" height="100px" width="100px">
 </a>
   
   <br/>
-   <a href="https://play.google.com/store/apps/details?id=com.tweenbrands.justice"> 
+   <a href="https://play.google.com/store/apps/details?id=com.tweenbrands.justice" target="_blank"> 
         <img src="https://source.android.com/setup/images/Android_symbol_green_RGB.png" alt="Android logo" style="vertical-align:top margin:6px 4px" height="50px" width="75px">
       </a>
   
-   <a href="https://apps.apple.com/us/app/live-justice/id1167143522"> 
+   <a href="https://apps.apple.com/us/app/live-justice/id1167143522" target="_blank"> 
     <img src="https://i.pinimg.com/originals/7e/f8/1a/7ef81ac41aee4eebecc92b99e9f45160.png" alt="iOS logo" style="vertical-align:top margin:6px 4px" height="50px" width="50px">
    </a>
    
@@ -54,20 +54,20 @@
   <!--FIELDLENS -->
   <td>
   <p align="center"> 
-  <a href="https://fieldlens.com/"> 
+  <a href="https://fieldlens.com/" target="_blank"> 
         <img src="https://lh3.googleusercontent.com/EikA4Pa0csrk0sxbL32ApYkI5ya9TA67g6n6oq_G_xsJvOlTLY7ZUYFKTctixNDRww=s180-rw" alt="Fieldlens logo" style="vertical-align:top margin:6px 4px" height="100px" width="100px">
 </a>
   
   <br/>
-   <a href="https://play.google.com/store/apps/details?id=com.fieldlens.android"> 
+   <a href="https://play.google.com/store/apps/details?id=com.fieldlens.android" target="_blank"> 
         <img src="https://source.android.com/setup/images/Android_symbol_green_RGB.png" alt="Fieldlens Android logo" style="vertical-align:top margin:6px 4px" height="50px" width="75px">
       </a>
   
-   <a href="https://apps.apple.com/us/app/fieldlens/id589565256"> 
+   <a href="https://apps.apple.com/us/app/fieldlens/id589565256" target="_blank"> 
     <img src="https://i.pinimg.com/originals/7e/f8/1a/7ef81ac41aee4eebecc92b99e9f45160.png" alt="Fieldlens iOS logo" style="vertical-align:top margin:6px 4px" height="50px" width="50px">
    </a>
    
-   <a href="https://fieldlens.com/"> 
+   <a href="https://fieldlens.com/" target="_blank"> 
       <img src="https://cdn.onlinewebfonts.com/svg/img_564264.png" alt="Fieldlens desktop logo" style="vertical-align:top margin:6px 4px" height="50px" width="50px">
     </a>
    
@@ -82,19 +82,19 @@
  ### DEV Experience
  
  <p align="center">
-  <a href="https://flutter.dev/"> 
+  <a href="https://flutter.dev/" target="_blank"> 
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/frameworks/flutter.png?raw=true" alt="flutter badge" style="vertical-align:top margin:6px 4px">
 </a>
 
-<a href="https://dart.dev/"> 
+<a href="https://dart.dev/" target="_blank"> 
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/languages/dart_colour.png?raw=true" alt="dart badge" style="vertical-align:top margin:6px 4px">
 </a>
 
-<a href="https://developer.android.com/studio"> 
+<a href="https://developer.android.com/studio" target="_blank"> 
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/tools/android_studio_colour.png?raw=true" alt="dart badge" style="vertical-align:top margin:6px 4px">
 </a>
 
-<a href="https://code.visualstudio.com/"> 
+<a href="https://code.visualstudio.com/" target="_blank"> 
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/tools/visualstudio_code.svg" alt="dart badge" style="vertical-align:top margin:6px 4px">
 </a>
 
@@ -106,11 +106,11 @@
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/matthewrmcguire/"> 
+<a href="https://www.linkedin.com/in/matthewrmcguire/" target="_blank"> 
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/social/linkedin.png?raw=true" alt="LinkedIng badge" style="vertical-align:top margin:6px 4px">
 </a>
 
-<a href="https://twitter.com/venturebegins"> 
+<a href="https://twitter.com/venturebegins" target="_blank"> 
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/social/twitter.png?raw=true" alt="Twitter badge" style="vertical-align:top margin:6px 4px">
 </a>
 
