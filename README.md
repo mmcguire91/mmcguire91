@@ -9,6 +9,7 @@
 
 <table>
   <tbody>
+   <tr>
   
   <!-- CLEAR -->
   <td>
@@ -72,6 +73,7 @@
    
   </p>
  </td>
+ </tr>
  </tbody>
 </table>
 
@@ -88,11 +90,11 @@
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/languages/dart_colour.png?raw=true" alt="dart badge" style="vertical-align:top margin:6px 4px">
 </a>
 
-<a href="https://github.com/mmcguire91"> 
+<a href="https://developer.android.com/studio"> 
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/tools/android_studio_colour.png?raw=true" alt="dart badge" style="vertical-align:top margin:6px 4px">
 </a>
 
-<a href="https://github.com/mmcguire91"> 
+<a href="https://code.visualstudio.com/"> 
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/tools/visualstudio_code.svg" alt="dart badge" style="vertical-align:top margin:6px 4px">
 </a>
 
