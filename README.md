@@ -15,8 +15,7 @@
   <td>
    <p align="center">
    <td style='text-align:center;vertical-align:middle'> 
-     <a href="#" onclick='window.open("https://www.clearme.com/");return false;'>
-     <!--<a href="https://www.clearme.com/" target="_blank"> -->
+     <a href="https://www.clearme.com/" target="_blank">
        <img src="https://lh3.googleusercontent.com/dEFDQLeroxeuWCFgP63XDVe4rXexryxvRr-IFC-TQI0jKDS0VZ1-UpZR5w-01HY20SM=s180-rw" alt="CLEAR logo" style="vertical-align:top margin:6px 4px" height="100px" width="100px">
    </a>
    
