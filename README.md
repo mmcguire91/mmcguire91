@@ -99,12 +99,20 @@
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/languages/dart_colour.png?raw=true" alt="dart badge" style="vertical-align:top margin:6px 4px">
 </a>
 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/languages/js.png?raw=true" alt="javascript badge" style="vertical-align:top margin:6px 4px">
+</a>
+
+ <a href="https://react.dev/" target="_blank"> 
+<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/frameworks/react.png?raw=true" alt="react badge" style="vertical-align:top margin:6px 4px">
+</a>
+
 <a href="https://developer.android.com/studio" target="_blank"> 
-<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/tools/android_studio_colour.png?raw=true" alt="dart badge" style="vertical-align:top margin:6px 4px">
+<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/tools/android_studio_colour.png?raw=true" alt="android studio badge" style="vertical-align:top margin:6px 4px">
 </a>
 
 <a href="https://code.visualstudio.com/" target="_blank"> 
-<img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/tools/visualstudio_code.svg" alt="dart badge" style="vertical-align:top margin:6px 4px">
+<img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/tools/visualstudio_code.svg" alt="vs code badge" style="vertical-align:top margin:6px 4px">
 </a>
 
 </p>
